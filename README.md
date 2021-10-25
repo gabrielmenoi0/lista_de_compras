@@ -1,16 +1,6 @@
 # lista_de_compras
 
-Lista de Compras
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Bem vindos!! Este é meu segundo projeto de Flutter 😄. Fiz esse aplicativo acompanhando as aulas do Daniel Ciolfi na plataforma de Cursos online Udemy. Este aplicativo tem a finalidade técnica de armazenar uma lista de compras, pode ser muito util em uma ida ao supermercado, a aplicação salva os dados utilizando o plugin Path Provider, este plugin permite armazenar os dados inseridos na lista, de uma fomra que mesmo que a aplicação for fechada, os dados podem ser visualizados em um proximo acesso ao APP. Este aplicaçãoo foi construido a fins de aprendizagem.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
