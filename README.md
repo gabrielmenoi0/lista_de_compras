@@ -1,6 +1,10 @@
 # Lista de Compras
 
 
+https://user-images.githubusercontent.com/83043383/140103381-50b89d0a-f973-42ad-84dc-e9921a78c269.mp4
+
+
+
 
 Bem vindos!! Este é meu segundo projeto de Flutter 😄. 
 
